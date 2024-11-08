@@ -1,0 +1,1 @@
+This is a project related to the swarm of a set of autonomously controlled drones either with their own intelligence or by using a mother drone with them which is connected with the whole swarm and has more processing capacity for each drone to work with the commands given by the mother drone
